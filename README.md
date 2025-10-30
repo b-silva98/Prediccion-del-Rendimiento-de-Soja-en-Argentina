@@ -1,4 +1,4 @@
-# 🌾 Predicción del Rendimiento de Soja en Argentina (2000–2023)
+# 🌾 Predicción del Rendimiento de Soja en Argentina (1941–2023)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
@@ -7,7 +7,7 @@
 
 ## 📋 Descripción del proyecto
 
-Este proyecto analiza datos históricos del cultivo de **soja en Argentina** (años 2000–2023) con el objetivo de **predecir el rendimiento (kg/ha)** mediante modelos de **Machine Learning**.  
+Este proyecto analiza datos históricos del cultivo de **soja en Argentina** (años 1941–2023) con el objetivo de **predecir el rendimiento (kg/ha)** mediante modelos de **Machine Learning**.  
 Se trabaja con un dataset oficial del Ministerio de Agricultura y se aplican técnicas de limpieza, análisis exploratorio, y modelado predictivo con **Regresión Lineal** y **Random Forest Regressor**.
 
 ---
