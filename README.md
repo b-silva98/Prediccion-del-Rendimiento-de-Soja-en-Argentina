@@ -68,8 +68,7 @@ Se trabaja con un dataset oficial del Ministerio de Agricultura y se aplican té
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/soja-rendimiento-ml.git
-
+git clone https://github.com/b-silva98/Prediccion-del-Rendimiento-de-Soja-en-Argentina.git
 # Navegar al directorio
 cd soja-rendimiento-ml
 
@@ -77,8 +76,8 @@ cd soja-rendimiento-ml
 pip install -r requirements.txt
 
 # Ejecutar el análisis
-jupyter notebook analisis_rendimiento_soja.ipynb
-
+jupyter notebook analisis_rendimiento_soja.ipynb 
+```
 ---
 
 ## 📬 Autor
