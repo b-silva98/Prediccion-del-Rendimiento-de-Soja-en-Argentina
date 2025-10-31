@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-yellow)
 
 ---
 
@@ -20,11 +22,12 @@ Se trabaja con un dataset oficial del Ministerio de Agricultura y se aplican té
 
 ## 🧩 Tecnologías y herramientas utilizadas
 
-- 🐍 **Python**
+- 🐍 **Python 3.10+**
 - 📦 **Librerías principales:**
-  - `pandas`, `numpy`
-  - `matplotlib`, `seaborn`
-  - `scikit-learn`
+  - `pandas`, `numpy` - Análisis y manipulación de datos
+  - `matplotlib`, `seaborn` - Visualización y gráficos
+  - `scikit-learn` - Modelos de Machine Learning
+  - `jupyter` - Entorno de desarrollo
 
 
 ---
@@ -32,6 +35,8 @@ Se trabaja con un dataset oficial del Ministerio de Agricultura y se aplican té
 ## 🔍 Proceso del proyecto
 
 1. **Carga e inspección de datos:** Exploración de estructura y tipos.
+2. **Limpieza de datos:** Manejo de valores nulos y detección de outliers.
+3. **Análisis exploratorio:** Visualización de distribuciones y correlaciones.
 
 ---
 
@@ -49,16 +54,30 @@ Se trabaja con un dataset oficial del Ministerio de Agricultura y se aplican té
 
 ## 📈 Resultados destacados
 
+*[Sección pendiente de completar con los resultados del modelado]*
 
 ---
 
 ## 💡 Conclusiones
 
+*[Sección pendiente de completar con las conclusiones finales]*
 
 ---
 
 ## 🚀 Cómo ejecutar el proyecto
 
+```bash
+# Clonar el repositorio
+git clone https://github.com/tu-usuario/soja-rendimiento-ml.git
+
+# Navegar al directorio
+cd soja-rendimiento-ml
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Ejecutar el análisis
+jupyter notebook analisis_rendimiento_soja.ipynb
 
 ---
 
