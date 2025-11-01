@@ -45,7 +45,7 @@ Se trabaja con un dataset oficial del Ministerio de Agricultura y se aplican té
 ```
 📁 soja-rendimiento-ml/
 │
-├── 📄 soja-1ra-serie-2000-2023.csv        # Dataset original
+├── 📄 soja-serie-1941-2023.csv        # Dataset original
 ├── 📔 analisis_rendimiento_soja.ipynb     # Notebook principal (Google Colab)
 └── 📘 README.md                           # Documentación del proyecto
 ```
