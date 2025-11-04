@@ -1,0 +1,6 @@
+Variable,Importancia,Importancia_Normalizada
+produccion_tm,0.45830830516046933,0.4583
+anio,0.32245177829274574,0.3225
+superficie_sembrada_ha,0.13768016871247632,0.1377
+superficie_cosechada_ha,0.05880262127854719,0.0588
+provincia_id,0.022757126555761367,0.0228
