@@ -52,6 +52,7 @@ Se trabaja con un dataset oficial del Ministerio de Agricultura y se aplican té
 ├── 📔 analisis_rendimiento_soja.ipynb     # Notebook principal
 ├── 📊 resultados_prediccion_rendimiento_soja.csv # Resultados detallados
 ├── 📈 importancia_variables_rendimiento_soja.csv # Relevancia de variables
+├── 📈 Presentacion del proyecto.pptx # Presentacion del proyecto
 └── 📘 README.md                           # Documentación del proyecto
 ```
 
